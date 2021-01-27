@@ -14,17 +14,17 @@
     text-align: center;
     padding: 10px;
     opacity: 0;
+    background-color: black;
     transition: all 500ms ease-in-out;
     transform: translate(0, 20px);
     cursor: pointer;
     h1 {
-      font-size: 14px;
-      color: black;
+      font-size: 12px;
+      color: white;
     }
     p {
       font-size: 12px;
-      font-weight: bold;
-      color: blue;
+      color: white;
       margin-bottom: 20px;
     }
 
