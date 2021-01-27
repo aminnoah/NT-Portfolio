@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 // Images
 import ProfilePic from "./images/ProfilePic.png"
 import Creole from "./images/Creole.png"
@@ -22,6 +23,7 @@ import designIcon from "./images/designIcon.png"
 import linkedInIcon from "./images/linkedInIcon.png"
 import githubIcon from "./images/github.png"
 import codepenIcon from "./images/codepen.png"
+
 
 export default {
 
