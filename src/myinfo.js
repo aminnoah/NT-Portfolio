@@ -110,11 +110,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Hello, my name is Noah Turner, and thank you for checking out my portfolio! I am a Fullstack Software Developer from Chicago, Illinois and graduate of the Fullstack Web Development Program at Thinkful.",
+    "Hello and thank you for checking out my portfolio! My name is Noah Turner and I am a Fullstack Software Developer from Chicago, Illinois and graduate of the Fullstack Web Development Program at Thinkful.",
   aboutParaTwo:
-  "I am transitioning from the health & wellness industry, where I was a Personal Trainer and Soccer Coach for FC Barcelona Academy. Similarly, both industries require constant learning and continuation of my education and craft. I have brought the same level of commitment, excitement, and determination to excel as a Software Developer.",
+  "I am transitioning from the health & wellness industry, where I was a Personal Trainer and Soccer Coach for FC Barcelona Academy. Similarly, the two industries require constant learning and continuation of my education and craft. I have brought the same level of commitment, excitement, and determination to excel as a Software Developer.",
   aboutParaThree:
-    "I am infatuated with the world of software engineering. The possibilities of creation are only limited to what I create in my mind. The satisfaction that comes from creating and solving real-world problems will never cease to intrigue me. In short, I am looking for a career where I can be challenged and pushed past my limits in order to make a positive change for society.",
+    "I am infatuated with the world of software engineering. The possibilities of creation are only limited to what I create in my mind. The satisfaction that comes from creating and solving real-world problems will never cease to intrigue me. I am looking for a career where I can be challenged and pushed past my limits in order to make a positive change for society.",
   aboutImage: ProfilePic,
 
   //   End About Section ---------------------
