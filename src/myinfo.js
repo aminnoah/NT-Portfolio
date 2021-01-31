@@ -55,7 +55,7 @@ export default {
         "Yamma provides users with a compilation of up-to-date U.S. news. Users can communicate with each other through corresponding article chat windows.",
       imageSrc:
         Yamma,
-      url: "https://yamma-server.herokuapp.com",
+      url: "https://yamma-client-23jelxwls.vercel.app/",
       github: "https://github.com/MettyS/yamma-client",
       tech: ["HTML","CSS","JavaScript","NodeJS","React","Express","Mocha","Chai","AJAX","Heroku","Vercel"]
     },
