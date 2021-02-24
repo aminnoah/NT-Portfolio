@@ -110,7 +110,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Hello and thank you for checking out my portfolio! My name is Noah Turner. I am a Fullstack Software Engineer from Chicago, Illinois and a graduate of the Fullstack Web Development Program at Thinkful.",
+    "Hello and thank you for checking out my portfolio! My name is Noah Turner. I am a Fullstack Software Engineer from Chicago, Illinois and a graduate of the Fullstack Software Engineering Program at Thinkful.",
   aboutParaTwo:
   "I am transitioning from the health & wellness industry, where I was a Personal Trainer and Soccer Coach for FC Barcelona Academy. Similarly, the two industries require constant learning and continuation of my education and craft. I have brought the same level of commitment, excitement, and determination to excel as a Software Engineer.",
   aboutParaThree:
