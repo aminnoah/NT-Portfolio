@@ -5,6 +5,7 @@ import Creole from "./images/Creole.png"
 import ConvoToGo from "./images/Convo-To-Go.png"
 import Petful from "./images/Petful.png"
 import Yamma from './images/yamma-screenshot.png'
+import CAG from './images/CAG-screenshot.png'
 // Skills Icons
 import htmlIcon from "./images/htmlIcon.png"
 import cssIcon from "./images/cssIcon.png"
@@ -18,6 +19,7 @@ import mochaIcon from "./images/mochaIcon.png"
 import nodeIcon from "./images/nodeIcon.png"
 import pgIcon from "./images/pgIcon.png"
 import designIcon from "./images/designIcon.png"
+import typescriptIcon from "./images/typescriptIcon.png"
 
 // Social Icon
 import linkedInIcon from "./images/linkedInIcon.png"
@@ -91,12 +93,20 @@ export default {
       github: "https://github.com/aminnoah/Petful-client",
       tech: ["HTML","CSS","JavaScript","NodeJS","React","Express","Mocha","Vercel","Algorithms","Data Structures"]
     },
+    {
+      id: 5,
+      title: "Chicago Artist Guide",
+      para: "We provide a centralized place for Chicago theatre companies, individual artists, and communities to come together. We remove common obstacles with time and money-saving resources so artists can focus on what’s most important: making art",
+      imageSrc: CAG,
+      url: "https://www.chicagoartistguide.org/home",
+      github: "https://github.com/Chicago-Artist-Guide"
+    }
 
     /*
     To Add More Projects (Update the id Respectively)
     ,{
-        id: 5,
-        title: 'Project Five',
+        id: 6,
+        title: 'Project',
         para: 'Something Amazing',
         imageSrc: "",
         url: '',
@@ -172,6 +182,10 @@ export default {
       id: 12,
       img: pgIcon
     },
+    {
+      id: 13,
+      img: typescriptIcon
+    }
   ],
 
   // End Skills Section --------------------------
