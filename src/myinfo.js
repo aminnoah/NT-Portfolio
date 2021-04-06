@@ -202,7 +202,7 @@ export default {
     },
     {
       img: linkedInIcon,
-      url: "www.linkedin.com/in/noah-turner-full-stack-dev",
+      url: "https://www.linkedin.com/in/noahturnerdev/",
     },
   ],
 
