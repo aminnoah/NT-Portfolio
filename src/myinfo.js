@@ -7,6 +7,7 @@ import Petful from "./images/Petful.png"
 import Yamma from './images/yamma-screenshot.png'
 import CAG from './images/CAG-screenshot.png'
 // Skills Icons
+import javaIcon from "./images/javaIcon.png"
 import htmlIcon from "./images/htmlIcon.png"
 import cssIcon from "./images/cssIcon.png"
 import reactIcon from "./images/reactIcon.png"
@@ -185,6 +186,10 @@ export default {
     {
       id: 13,
       img: typescriptIcon
+    },
+    {
+      id: 14,
+      img: javaIcon
     }
   ],
 
