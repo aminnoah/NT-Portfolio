@@ -21,6 +21,7 @@ import nodeIcon from "./images/nodeIcon.png"
 import pgIcon from "./images/pgIcon.png"
 import designIcon from "./images/designIcon.png"
 import typescriptIcon from "./images/typescriptIcon.png"
+import playwrightIcon from "./images/playwrightIcon.png"
 
 // Social Icon
 import linkedInIcon from "./images/linkedInIcon.png"
@@ -121,11 +122,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Hello and thank you for checking out my portfolio! My name is Noah Turner. I am a Fullstack Software Engineer from Chicago, Illinois and a graduate of the Fullstack Software Engineering Program at Thinkful.",
+    "Hello and welcome! My name is Noah Turner. I am a Fullstack Software Engineer from Chicago, Illinois and currently a Software Developer Consultant.",
   aboutParaTwo:
-  "I am transitioning from the health & wellness industry, where I was a Personal Trainer and Soccer Coach for FC Barcelona Academy. Similarly, the two industries require constant learning and continuation of my education and craft. I have brought the same level of commitment, excitement, and determination to excel as a Software Engineer.",
+  "I started my journey as a Software Engineer in 2019 when I was introduced to the world of coding through a friend. I was instantly intrigued by the idea of creating something from nothing. I began my journey by learning HTML, CSS, and the architecture behind an accessible web app. I continued on to JavaScript and turned those static pages into dynamic websites. During the pandemic, I enrolled in Thinkful's Full Stack Software Engineering Program. Through their structured and fast pace course, I advanced my skills into Full Stack Development by understanding back-end development with NodeJS and database creation/ maintenance with PostgreSQL. After graduating Thinkful's program, I joined the Chicago Artist Guide as a volunteer dev in order to gain real world experience and solidify my skills.",
   aboutParaThree:
-    "I am infatuated with the world of software engineering. The possibilities of creation are only limited to what I create in my mind. The satisfaction that comes from creating and solving real-world problems will never cease to intrigue me. I am looking for a career where I can be challenged and pushed past my limits in order to make a positive change for society.",
+    "As an engineer for Bitovi, I have worked on teams for Fortune 500 companies, e-commerce, authorization. I have held and run multiple meetups for the JavaScript community. I am infatuated with the world of software engineering and I want to help you bring your ideas to fruition. ",
   aboutImage: ProfilePic,
 
   //   End About Section ---------------------
@@ -190,6 +191,10 @@ export default {
     {
       id: 14,
       img: javaIcon
+    },
+    {
+      id: 15,
+      img: playwrightIcon 
     }
   ],
 
