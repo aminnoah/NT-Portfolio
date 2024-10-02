@@ -45,6 +45,8 @@
     align-items: center;
     justify-content: center;
     overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.8);
     @include media(">=phone", "<lgphone") {
       width: 100%;
     }

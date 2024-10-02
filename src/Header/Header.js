@@ -42,7 +42,7 @@ const Header = () => {
           <Fade bottom>
             <a
               href={`mailto:${
-                data.contactEmail ? data.contactEmail : "hello@noahturner.com"
+                data.contactEmail ? data.contactEmail : "aminnoah19@gmail.com"
               }`}
               className="primary-btn"
             >
